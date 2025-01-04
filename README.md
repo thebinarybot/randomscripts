@@ -1,2 +1,2 @@
 # randomscripts
-Random bash/ps scripts to make everyday life simpler
+Random bash/ps/py scripts to make everyday life simpler
